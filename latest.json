@@ -1,9 +1,8 @@
-{
-    "schemaVersion":  1,
-    "versionName":  "1.0.16",
-    "versionCode":  17,
-    "apkUrl":  "https://github.com/radomeds/spectrix-releases/releases/latest/download/Spectrix.apk",
-    "sha256":  "1c31c1a2a7271e189420b26b4e613c318e131fba1e04f3f83359f58be4e4edb1",
-    "shareUrl":  "https://github.com/radomeds/spectrix-releases/releases/latest",
-    "releaseNotes":  "15 temas, previews corrigidos, Goku Pro, Theme Store resiliente e atualizador interno."
+﻿{
+    "versionName":  "1.0.17",
+    "versionCode":  18,
+    "apkUrl":  "https://github.com/radomeds/spectrix-releases/releases/download/v1.0.17/Spectrix.apk",
+    "sha256":  "098e9d9c938944a44cc569bab8d024659bd553a80190558d5b7e65d0b8c95466",
+    "releaseNotes":  "Sete temas totalmente personalizados: Pixel Quest, Girl Pop, Anime Pulse, ApotecÃ¡ria Jade Court, Media Player Classic, Cat Lounge e Dev Terminal.",
+    "shareUrl":  "https://github.com/radomeds/spectrix-releases/releases/latest"
 }
