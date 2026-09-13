@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.18",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/radomeds/spectrix-releases/releases/download/v1.0.18/Spectrix.apk",
-    "sha256":  "145f66f4e919b1f25e401322655fa4cd58dbaca18d1eaeba05e36bdd5c98a9b5",
-    "releaseNotes":  "CorreÃ§Ã£o de tela escura e otimizaÃ§Ã£o dos sete temas personalizados. Visualizador em tempo real estabilizado e mais leve.",
+    "versionName":  "1.0.19",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/radomeds/spectrix-releases/releases/download/v1.0.19/Spectrix.apk",
+    "sha256":  "c5cfff07bab7b0d133f248df9561fe92a1a62f73b16ec0763d49ff27e8068ed8",
+    "releaseNotes":  "Temas repaginados: Supernova no lugar do tema anterior, Media Player Classic refeito no visual do player clássico e arte nova nos sete temas extras.",
     "shareUrl":  "https://github.com/radomeds/spectrix-releases/releases/latest"
 }

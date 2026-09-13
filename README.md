@@ -1,6 +1,6 @@
-# Spectrix 1.0.17
+# Spectrix 1.0.19
 
-Sete temas totalmente personalizados e atualizador interno corrigido.
+Temas repaginados: Supernova no lugar do tema anterior, Media Player Classic refeito no visual do player clássico e arte nova nos sete temas extras.
 
 - Download: https://github.com/radomeds/spectrix-releases/releases/latest/download/Spectrix.apk
-- SHA-256: 6209d3c9dd5feaacca457927b5ac21635ea8114d15fa39a5880663dc113f84af
+- SHA-256: c5cfff07bab7b0d133f248df9561fe92a1a62f73b16ec0763d49ff27e8068ed8
